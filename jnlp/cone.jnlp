@@ -8,7 +8,7 @@
 	  <j2se version="1.8+" />
 	  <jar href="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/java3d.jar"/>
 	</resources>
-	<applet-desc main-class="j3d.Obj3dApplet" name="Cone" width="316" height="230">
+	<applet-desc main-class="j3d.Obj3dApplet" name="Cone" width="632" height="460">
 	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/models/cone.obj"/>
 	  <param name="animate" value="true"/>
 	  <param name="scale" value="0.75"/>
