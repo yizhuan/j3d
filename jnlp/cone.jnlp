@@ -10,8 +10,8 @@
 	</resources>
 	<applet-desc main-class="j3d.Obj3dApplet" name="Cone" width="632" height="460">
 	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/models/cone.obj"/>
-	  <param name="animate" value="true"/>
-	  <param name="scale" value="0.75"/>
+	  <param name="animate" value="yes"/>
+	  <param name="scale" value="1.75"/>
 	</applet-desc>
     <update check="background"/>
 </jnlp>
