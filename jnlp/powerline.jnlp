@@ -9,7 +9,7 @@
 	  <jar href="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/java3d.jar"/>
 	</resources>
 	<applet-desc main-class="j3d.Obj3dApplet" name="powerline" width="500" height="500">
-	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/models/powerline.obj"/>
+	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/models/powerlin.obj"/>
 	  <param name="animate" value="false"/>
 	  <param name="scale" value="0.75"/>
 	</applet-desc>
