@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp href="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/jnlp/venus_hi.jnlp">
+<jnlp href="https://raw.githubusercontent.com/yizhuan/j3d/master/jnlp/venus_hi.jnlp">
     <information>
         <title>venus_hi</title>
         <vendor>Yizhuan Yu</vendor>
     </information>
 	 <resources>
 	  <j2se version="1.8+" />
-	  <jar href="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/java3d.jar"/>
+	  <jar href="https://raw.githubusercontent.com/yizhuan/j3d/master/j3d.jar"/>
 	</resources>
 	<applet-desc main-class="j3d.Obj3dApplet" name="venus_hi" width="500" height="500">
-	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/models/venus_hi.obj"/>
+	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d/master/models/venus_hi.obj"/>
 	  <param name="animate" value="false"/>
 	  <param name="scale" value="0.75"/>
 	</applet-desc>

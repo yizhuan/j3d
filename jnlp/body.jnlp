@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp href="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/jnlp/body.jnlp">
+<jnlp href="https://raw.githubusercontent.com/yizhuan/j3d/master/jnlp/body.jnlp">
     <information>
         <title>Body</title>
         <vendor>Yizhuan Yu</vendor>
     </information>
 	 <resources>
 	  <j2se version="1.8+" />
-	  <jar href="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/java3d.jar"/>
+	  <jar href="https://raw.githubusercontent.com/yizhuan/j3d/master/j3d.jar"/>
 	</resources>
 	<applet-desc main-class="j3d.Obj3dApplet" name="Body" width="1024" height="768">
-	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d-demo/master/models/body.obj"/>
+	  <param name="model" value="https://raw.githubusercontent.com/yizhuan/j3d/master/models/body.obj"/>
 	  <param name="animate" value="false"/>
 	  <param name="scale" value="0.75"/>
 	</applet-desc>
